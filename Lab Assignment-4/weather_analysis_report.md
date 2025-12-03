@@ -13,7 +13,7 @@ This report analyzes weather data from your provided CSV file, focusing on tempe
 
 ## Statistical Analysis
 - **Daily Statistics**: Computed mean, min, max, and std for MeanTemp, Rainfall, and Humidity3pm.
-  - Values will vary based on your data; example from previous run: MeanTemp Mean=23.23°C, etc.
+  - Values will vary based on your data; example from previous run: MeanTemp Mean=23.23Â°C, etc.
 - **Monthly and Yearly Statistics**: Used resampling to compute aggregates, showing trends over time.
 
 ## Visualizations
